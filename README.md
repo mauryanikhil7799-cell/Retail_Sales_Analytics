@@ -87,4 +87,66 @@ These analyses can support sales performance monitoring, profitability assessmen
 ```text
 Retail_Sales_Analytics/
 │
-├── Data
+├── Datafiles/
+│   └── Source datasets
+│
+├── SQL/
+│   └── SQL scripts for data validation,
+│       analysis, and Tableau preparation
+│
+├── Tableau Dashboard/
+│   └── Packaged Tableau workbook (.twbx)
+│
+├── README.md
+└── LICENSE
+```
+
+*Note: The folder descriptions above explain the intended contents. Refer to the repository folders for the actual files and filenames.*
+
+## 🚀 How to Explore the Project
+
+### View the SQL Analysis
+
+1. Open the `SQL` folder in this repository.
+2. Review the SQL scripts to understand the data preparation and analytical logic.
+3. Follow the queries from data validation through dashboard preparation.
+
+### Open the Tableau Dashboard
+
+1. Open the `Tableau Dashboard` folder.
+2. Download the packaged Tableau workbook (`.twbx`).
+3. Open the file using Tableau Desktop or a compatible Tableau application.
+4. Interact with the available charts and filters to explore retail performance.
+
+If Tableau requests a data connection, check whether the packaged workbook includes the required extract or whether the data source needs to be reconnected.
+
+## 📚 Key Learnings
+
+- Writing SQL queries to answer business questions.
+- Combining related datasets for analytical reporting.
+- Using date functions to analyze monthly performance.
+- Creating business KPIs and profitability metrics.
+- Building interactive dashboards in Tableau.
+- Organizing SQL and BI project files for a professional portfolio.
+
+## 🔮 Future Enhancements
+
+- Add a dashboard screenshot and a published Tableau Public link.
+- Document verified business insights with supporting figures.
+- Improve dashboard navigation and filter usability.
+- Add further analysis of customer behavior and product performance, where the available data supports it.
+- Expand data validation and documentation of KPI definitions.
+
+## 👤 Author
+
+**Nikhil Kumar Maurya**
+
+GitHub: [mauryanikhil7799-cell](https://github.com/mauryanikhil7799-cell)
+
+Tableau Public: [View my Tableau profile](https://public.tableau.com/app/profile/nikhil.maurya6362/vizzes)
+
+LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nikhil-maurya-326687405/)
+
+---
+
+*This project was developed for practical learning and portfolio demonstration in SQL-based data analysis and Tableau business intelligence.*
