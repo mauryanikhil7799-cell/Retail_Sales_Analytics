@@ -129,13 +129,6 @@ If Tableau requests a data connection, check whether the packaged workbook inclu
 - Building interactive dashboards in Tableau.
 - Organizing SQL and BI project files for a professional portfolio.
 
-## 🔮 Future Enhancements
-
-- Add a dashboard screenshot and a published Tableau Public link.
-- Document verified business insights with supporting figures.
-- Improve dashboard navigation and filter usability.
-- Add further analysis of customer behavior and product performance, where the available data supports it.
-- Expand data validation and documentation of KPI definitions.
 
 ## 👤 Author
 
@@ -144,8 +137,6 @@ If Tableau requests a data connection, check whether the packaged workbook inclu
 GitHub: [mauryanikhil7799-cell](https://github.com/mauryanikhil7799-cell)
 
 Tableau Public: [View my Tableau profile](https://public.tableau.com/app/profile/nikhil.maurya6362/vizzes)
-
-LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nikhil-maurya-326687405/)
 
 ---
 
