@@ -1,0 +1,301 @@
+customer_id,customer_name,age,city,state,signup_date,customer_segment
+C0001,Rahul Verma,65,Lucknow,Uttar Pradesh,10/9/2023,Consumer
+C0002,Arjun Srivastava,61,Kanpur,Uttar Pradesh,1/28/2025,Small Business
+C0003,Aditya Das,20,Bhopal,Madhya Pradesh,1/31/2023,Consumer
+C0004,Ayaan Patel,19,Kolkata,West Bengal,7/28/2024,Consumer
+C0005,Rahul Srivastava,44,Pune,Maharashtra,8/14/2023,Consumer
+C0006,Krishna Jaiswal,66,Lucknow,Uttar Pradesh,4/5/2025,Consumer
+C0007,Ira Maurya,27,Delhi,Delhi,8/9/2023,Small Business
+C0008,Ananya Verma,42,Kanpur,Uttar Pradesh,4/10/2023,Consumer
+C0009,Diya Das,69,Delhi,Delhi,2/14/2023,Corporate
+C0010,Neha Verma,23,Bhopal,Madhya Pradesh,7/19/2024,Consumer
+C0011,Rahul Das,54,Jaipur,Rajasthan,7/16/2023,Corporate
+C0012,Vivaan Agarwal,67,Varanasi,Uttar Pradesh,10/24/2023,Small Business
+C0013,Karan Singh,42,Kanpur,Uttar Pradesh,10/12/2023,Consumer
+C0014,Simran Maurya,41,Prayagraj,Uttar Pradesh,12/30/2023,Consumer
+C0015,Krishna Srivastava,56,Kanpur,Uttar Pradesh,10/12/2024,Consumer
+C0016,Pooja Singh,47,Prayagraj,Uttar Pradesh,1/24/2024,Consumer
+C0017,Ankit Agarwal,32,Pune,Maharashtra,12/2/2024,Consumer
+C0018,Sneha Jaiswal,32,Lucknow,Uttar Pradesh,4/21/2025,Consumer
+C0019,Ananya Khan,22,Delhi,Delhi,8/5/2023,Small Business
+C0020,Riya Kumar,31,Jaipur,Rajasthan,11/2/2024,Consumer
+C0021,Meera Kumar,27,Patna,Bihar,9/29/2023,Consumer
+C0022,Pooja Patel,34,Pune,Maharashtra,2/3/2025,Consumer
+C0023,Meera Das,41,Bhopal,Madhya Pradesh,8/13/2023,Small Business
+C0024,Arjun Patel,23,Patna,Bihar,2/12/2025,Consumer
+C0025,Vihaan Gupta,68,Prayagraj,Uttar Pradesh,11/27/2024,Consumer
+C0026,Aditya Khan,56,Bhopal,Madhya Pradesh,4/24/2024,Consumer
+C0027,Neha Pandey,61,Lucknow,Uttar Pradesh,1/8/2025,Consumer
+C0028,Meera Patel,67,Delhi,Delhi,10/18/2024,Consumer
+C0029,Ishaan Khan,47,Prayagraj,Uttar Pradesh,1/4/2023,Small Business
+C0030,Meera Srivastava,50,Delhi,Delhi,2/19/2025,Consumer
+C0031,Ankit Verma,58,Delhi,Delhi,6/3/2024,Consumer
+C0032,Arjun Maurya,52,Prayagraj,Uttar Pradesh,9/3/2025,Corporate
+C0033,Priya Kumar,56,Lucknow,Uttar Pradesh,11/28/2023,Consumer
+C0034,Vihaan Kumar,69,Jaipur,Rajasthan,11/11/2023,Consumer
+C0035,Ayaan Kumar,23,Kolkata,West Bengal,3/29/2023,Corporate
+C0036,Simran Verma,67,Pune,Maharashtra,5/9/2023,Consumer
+C0037,Myra Patel,34,Prayagraj,Uttar Pradesh,6/24/2024,Small Business
+C0038,Ira Singh,66,Pune,Maharashtra,1/17/2025,Corporate
+C0039,Nikhil Yadav,60,Bhopal,Madhya Pradesh,10/27/2024,Consumer
+C0040,Meera Patel,25,Patna,Bihar,9/11/2023,Consumer
+C0041,Ananya Sharma,53,Kolkata,West Bengal,8/24/2023,Consumer
+C0042,Aarav Verma,32,Lucknow,Uttar Pradesh,3/11/2023,Small Business
+C0043,Karan Maurya,50,Kanpur,Uttar Pradesh,9/1/2023,Consumer
+C0044,Myra Singh,26,Pune,Maharashtra,1/10/2025,Small Business
+C0045,Riya Das,33,Patna,Bihar,3/14/2025,Consumer
+C0046,Ira Singh,24,Kanpur,Uttar Pradesh,11/5/2024,Consumer
+C0047,Ira Khan,64,Patna,Bihar,2/25/2023,Consumer
+C0048,Rahul Verma,43,Lucknow,Uttar Pradesh,1/15/2025,Consumer
+C0049,Karan Verma,30,Varanasi,Uttar Pradesh,7/14/2023,Consumer
+C0050,Arjun Khan,35,Prayagraj,Uttar Pradesh,4/18/2024,Consumer
+C0051,Ankit Verma,69,Patna,Bihar,6/1/2025,Corporate
+C0052,Vihaan Sharma,18,Pune,Maharashtra,9/19/2025,Consumer
+C0053,Sneha Pandey,28,Varanasi,Uttar Pradesh,2/21/2024,Consumer
+C0054,Reyansh Pandey,21,Bhopal,Madhya Pradesh,6/18/2023,Consumer
+C0055,Aadhya Yadav,36,Patna,Bihar,3/9/2024,Corporate
+C0056,Pooja Jaiswal,60,Pune,Maharashtra,1/5/2025,Consumer
+C0057,Reyansh Yadav,21,Varanasi,Uttar Pradesh,8/16/2024,Corporate
+C0058,Vivaan Srivastava,21,Jaipur,Rajasthan,2/21/2023,Consumer
+C0059,Priya Kumar,28,Pune,Maharashtra,2/28/2023,Small Business
+C0060,Aditya Pandey,22,Prayagraj,Uttar Pradesh,9/1/2024,Consumer
+C0061,Karan Singh,25,Bhopal,Madhya Pradesh,8/22/2025,Small Business
+C0062,Ayaan Das,20,Kolkata,West Bengal,9/26/2024,Consumer
+C0063,Amit Das,51,Kolkata,West Bengal,11/20/2023,Small Business
+C0064,Reyansh Agarwal,33,Jaipur,Rajasthan,9/29/2023,Consumer
+C0065,Amit Agarwal,47,Delhi,Delhi,11/20/2023,Small Business
+C0066,Ankit Verma,47,Lucknow,Uttar Pradesh,9/28/2024,Small Business
+C0067,Vihaan Verma,31,Pune,Maharashtra,6/2/2024,Consumer
+C0068,Ankit Maurya,33,Kanpur,Uttar Pradesh,1/14/2024,Consumer
+C0069,Saanvi Pandey,63,Pune,Maharashtra,11/6/2023,Consumer
+C0070,Rohan Agarwal,18,Pune,Maharashtra,11/14/2024,Corporate
+C0071,Ishaan Kumar,26,Kanpur,Uttar Pradesh,9/28/2023,Consumer
+C0072,Vihaan Srivastava,27,Pune,Maharashtra,10/6/2023,Consumer
+C0073,Reyansh Srivastava,31,Jaipur,Rajasthan,12/4/2024,Consumer
+C0074,Krishna Patel,34,Patna,Bihar,7/16/2025,Small Business
+C0075,Vivaan Verma,35,Bhopal,Madhya Pradesh,2/15/2023,Consumer
+C0076,Sneha Gupta,28,Delhi,Delhi,1/29/2025,Consumer
+C0077,Nikhil Khan,18,Pune,Maharashtra,4/25/2023,Consumer
+C0078,Meera Srivastava,52,Prayagraj,Uttar Pradesh,2/6/2023,Corporate
+C0079,Riya Patel,45,Prayagraj,Uttar Pradesh,5/11/2023,Consumer
+C0080,Diya Kumar,40,Lucknow,Uttar Pradesh,8/4/2023,Corporate
+C0081,Amit Verma,67,Jaipur,Rajasthan,7/27/2024,Small Business
+C0082,Ira Das,33,Prayagraj,Uttar Pradesh,6/4/2025,Consumer
+C0083,Rohan Jaiswal,44,Prayagraj,Uttar Pradesh,1/26/2023,Consumer
+C0084,Ankit Maurya,69,Bhopal,Madhya Pradesh,11/16/2024,Small Business
+C0085,Rohan Singh,28,Delhi,Delhi,3/17/2025,Corporate
+C0086,Aadhya Pandey,48,Lucknow,Uttar Pradesh,8/16/2023,Consumer
+C0087,Ankit Mishra,37,Jaipur,Rajasthan,4/20/2025,Corporate
+C0088,Ayaan Singh,60,Lucknow,Uttar Pradesh,7/17/2023,Consumer
+C0089,Krishna Pandey,67,Kanpur,Uttar Pradesh,10/13/2023,Consumer
+C0090,Priya Khan,39,Pune,Maharashtra,8/19/2025,Consumer
+C0091,Meera Yadav,55,Prayagraj,Uttar Pradesh,9/12/2025,Small Business
+C0092,Vivaan Verma,45,Kolkata,West Bengal,12/20/2023,Corporate
+C0093,Ananya Khan,50,Kolkata,West Bengal,4/29/2023,Consumer
+C0094,Riya Singh,20,Delhi,Delhi,12/26/2024,Consumer
+C0095,Priya Kumar,61,Pune,Maharashtra,1/6/2025,Small Business
+C0096,Pooja Agarwal,41,Varanasi,Uttar Pradesh,3/17/2024,Consumer
+C0097,Amit Kumar,57,Jaipur,Rajasthan,11/18/2023,Consumer
+C0098,Vihaan Srivastava,50,Delhi,Delhi,11/13/2023,Consumer
+C0099,Ananya Khan,53,Delhi,Delhi,5/11/2023,Consumer
+C0100,Amit Khan,57,Prayagraj,Uttar Pradesh,8/5/2024,Consumer
+C0101,Neha Pandey,37,Lucknow,Uttar Pradesh,10/21/2023,Consumer
+C0102,Rohan Das,59,Kolkata,West Bengal,11/26/2023,Consumer
+C0103,Saanvi Agarwal,50,Varanasi,Uttar Pradesh,4/29/2024,Corporate
+C0104,Rohan Srivastava,60,Prayagraj,Uttar Pradesh,3/28/2023,Consumer
+C0105,Amit Agarwal,39,Kolkata,West Bengal,4/6/2023,Corporate
+C0106,Sneha Singh,32,Delhi,Delhi,4/5/2025,Consumer
+C0107,Aarav Sharma,48,Varanasi,Uttar Pradesh,9/17/2024,Corporate
+C0108,Aditya Mishra,58,Bhopal,Madhya Pradesh,8/12/2024,Consumer
+C0109,Nikhil Khan,43,Patna,Bihar,9/7/2023,Consumer
+C0110,Nikhil Sharma,67,Kanpur,Uttar Pradesh,3/11/2024,Consumer
+C0111,Rohan Srivastava,47,Pune,Maharashtra,2/21/2023,Consumer
+C0112,Ankit Pandey,47,Kanpur,Uttar Pradesh,5/17/2023,Corporate
+C0113,Amit Patel,56,Pune,Maharashtra,11/21/2023,Small Business
+C0114,Meera Mishra,70,Kolkata,West Bengal,1/6/2025,Small Business
+C0115,Ira Pandey,46,Pune,Maharashtra,7/7/2025,Consumer
+C0116,Karan Mishra,34,Patna,Bihar,2/8/2025,Consumer
+C0117,Rahul Yadav,49,Pune,Maharashtra,10/3/2024,Consumer
+C0118,Saanvi Verma,33,Delhi,Delhi,10/6/2023,Consumer
+C0119,Meera Patel,26,Kanpur,Uttar Pradesh,6/4/2023,Consumer
+C0120,Nikhil Gupta,22,Varanasi,Uttar Pradesh,2/29/2024,Consumer
+C0121,Neha Mishra,21,Bhopal,Madhya Pradesh,7/31/2023,Corporate
+C0122,Aadhya Kumar,62,Kolkata,West Bengal,1/21/2023,Corporate
+C0123,Sneha Das,48,Bhopal,Madhya Pradesh,1/7/2023,Small Business
+C0124,Ishaan Jaiswal,44,Bhopal,Madhya Pradesh,7/5/2024,Corporate
+C0125,Neha Jaiswal,32,Kolkata,West Bengal,5/14/2024,Consumer
+C0126,Ira Mishra,42,Lucknow,Uttar Pradesh,12/11/2023,Consumer
+C0127,Rohan Khan,47,Prayagraj,Uttar Pradesh,7/30/2025,Consumer
+C0128,Kavya Patel,43,Lucknow,Uttar Pradesh,8/29/2024,Consumer
+C0129,Aarav Verma,26,Bhopal,Madhya Pradesh,6/6/2025,Consumer
+C0130,Vivaan Yadav,38,Bhopal,Madhya Pradesh,8/5/2023,Consumer
+C0131,Ananya Jaiswal,35,Bhopal,Madhya Pradesh,2/9/2025,Small Business
+C0132,Ira Yadav,48,Kanpur,Uttar Pradesh,1/20/2023,Corporate
+C0133,Vivaan Maurya,59,Varanasi,Uttar Pradesh,3/12/2023,Corporate
+C0134,Rahul Sharma,33,Lucknow,Uttar Pradesh,7/24/2023,Corporate
+C0135,Kavya Gupta,26,Varanasi,Uttar Pradesh,4/29/2024,Consumer
+C0136,Riya Singh,62,Patna,Bihar,9/20/2023,Corporate
+C0137,Sai Das,65,Kolkata,West Bengal,1/5/2025,Consumer
+C0138,Simran Gupta,24,Delhi,Delhi,8/15/2024,Consumer
+C0139,Ishaan Das,43,Bhopal,Madhya Pradesh,8/22/2025,Corporate
+C0140,Aditya Das,24,Varanasi,Uttar Pradesh,12/14/2024,Corporate
+C0141,Karan Agarwal,69,Kolkata,West Bengal,5/4/2023,Corporate
+C0142,Riya Jaiswal,40,Lucknow,Uttar Pradesh,6/29/2024,Consumer
+C0143,Diya Verma,59,Pune,Maharashtra,12/16/2023,Consumer
+C0144,Ira Pandey,24,Patna,Bihar,3/19/2024,Small Business
+C0145,Rahul Kumar,63,Patna,Bihar,6/6/2023,Consumer
+C0146,Pooja Patel,57,Delhi,Delhi,4/7/2025,Small Business
+C0147,Sneha Mishra,45,Patna,Bihar,4/25/2025,Corporate
+C0148,Krishna Maurya,23,Varanasi,Uttar Pradesh,10/13/2023,Small Business
+C0149,Ayaan Jaiswal,54,Patna,Bihar,9/16/2024,Consumer
+C0150,Ananya Sharma,38,Patna,Bihar,7/6/2023,Consumer
+C0151,Diya Jaiswal,39,Delhi,Delhi,10/14/2023,Small Business
+C0152,Nikhil Kumar,53,Delhi,Delhi,1/11/2023,Consumer
+C0153,Reyansh Verma,64,Varanasi,Uttar Pradesh,2/21/2024,Consumer
+C0154,Sneha Singh,59,Patna,Bihar,12/29/2024,Consumer
+C0155,Rohan Sharma,36,Kanpur,Uttar Pradesh,8/15/2023,Consumer
+C0156,Ayaan Yadav,41,Kolkata,West Bengal,4/29/2024,Consumer
+C0157,Diya Khan,39,Pune,Maharashtra,12/27/2023,Corporate
+C0158,Krishna Yadav,32,Delhi,Delhi,5/4/2023,Corporate
+C0159,Ananya Verma,66,Pune,Maharashtra,12/7/2024,Consumer
+C0160,Reyansh Srivastava,35,Patna,Bihar,1/11/2025,Consumer
+C0161,Sneha Patel,36,Kolkata,West Bengal,4/13/2023,Corporate
+C0162,Ishaan Singh,29,Jaipur,Rajasthan,11/6/2023,Consumer
+C0163,Neha Gupta,20,Delhi,Delhi,9/24/2025,Consumer
+C0164,Ishaan Srivastava,58,Prayagraj,Uttar Pradesh,6/8/2025,Corporate
+C0165,Vihaan Pandey,54,Lucknow,Uttar Pradesh,10/19/2023,Consumer
+C0166,Saanvi Maurya,21,Prayagraj,Uttar Pradesh,9/16/2023,Small Business
+C0167,Myra Verma,43,Kanpur,Uttar Pradesh,5/18/2024,Consumer
+C0168,Rahul Agarwal,27,Lucknow,Uttar Pradesh,6/2/2023,Corporate
+C0169,Ishaan Verma,25,Varanasi,Uttar Pradesh,7/25/2024,Corporate
+C0170,Kavya Das,32,Kolkata,West Bengal,3/5/2025,Consumer
+C0171,Saanvi Kumar,37,Patna,Bihar,5/30/2025,Consumer
+C0172,Ira Yadav,57,Kolkata,West Bengal,3/3/2023,Consumer
+C0173,Pooja Verma,58,Varanasi,Uttar Pradesh,8/5/2023,Consumer
+C0174,Aditya Gupta,29,Varanasi,Uttar Pradesh,7/19/2024,Consumer
+C0175,Aarav Khan,62,Patna,Bihar,8/31/2024,Consumer
+C0176,Vivaan Singh,63,Delhi,Delhi,10/17/2023,Corporate
+C0177,Saanvi Verma,34,Varanasi,Uttar Pradesh,3/17/2025,Corporate
+C0178,Riya Agarwal,45,Varanasi,Uttar Pradesh,4/28/2023,Consumer
+C0179,Rahul Gupta,70,Delhi,Delhi,5/26/2023,Consumer
+C0180,Sai Jaiswal,56,Delhi,Delhi,2/5/2025,Corporate
+C0181,Ankit Yadav,25,Patna,Bihar,4/24/2024,Corporate
+C0182,Nikhil Khan,50,Delhi,Delhi,7/6/2024,Consumer
+C0183,Aditya Das,45,Lucknow,Uttar Pradesh,1/22/2025,Consumer
+C0184,Krishna Sharma,32,Kanpur,Uttar Pradesh,9/11/2025,Consumer
+C0185,Karan Das,19,Kolkata,West Bengal,2/22/2025,Consumer
+C0186,Krishna Das,66,Lucknow,Uttar Pradesh,2/13/2025,Consumer
+C0187,Priya Agarwal,35,Patna,Bihar,7/5/2023,Small Business
+C0188,Ira Agarwal,23,Patna,Bihar,4/26/2024,Consumer
+C0189,Ananya Maurya,28,Kanpur,Uttar Pradesh,12/4/2023,Consumer
+C0190,Myra Yadav,70,Bhopal,Madhya Pradesh,2/17/2025,Consumer
+C0191,Saanvi Verma,34,Jaipur,Rajasthan,11/28/2023,Consumer
+C0192,Sneha Khan,70,Pune,Maharashtra,1/2/2023,Consumer
+C0193,Neha Mishra,21,Bhopal,Madhya Pradesh,7/12/2023,Consumer
+C0194,Kavya Jaiswal,58,Patna,Bihar,3/28/2024,Corporate
+C0195,Reyansh Yadav,26,Pune,Maharashtra,8/7/2025,Consumer
+C0196,Meera Srivastava,25,Patna,Bihar,1/30/2023,Small Business
+C0197,Kavya Jaiswal,63,Varanasi,Uttar Pradesh,6/12/2023,Consumer
+C0198,Aarav Patel,23,Bhopal,Madhya Pradesh,8/19/2023,Small Business
+C0199,Ankit Verma,25,Patna,Bihar,10/25/2024,Corporate
+C0200,Myra Kumar,50,Delhi,Delhi,12/23/2024,Consumer
+C0201,Simran Mishra,33,Patna,Bihar,4/12/2024,Consumer
+C0202,Aadhya Singh,50,Kolkata,West Bengal,2/3/2025,Small Business
+C0203,Karan Verma,67,Delhi,Delhi,3/19/2025,Corporate
+C0204,Ananya Kumar,35,Pune,Maharashtra,4/20/2025,Consumer
+C0205,Pooja Yadav,55,Kolkata,West Bengal,11/6/2024,Consumer
+C0206,Arjun Mishra,48,Pune,Maharashtra,12/20/2023,Consumer
+C0207,Sneha Patel,47,Bhopal,Madhya Pradesh,8/13/2025,Consumer
+C0208,Reyansh Srivastava,54,Varanasi,Uttar Pradesh,1/28/2024,Consumer
+C0209,Sneha Khan,38,Lucknow,Uttar Pradesh,2/1/2025,Consumer
+C0210,Ankit Jaiswal,42,Bhopal,Madhya Pradesh,11/10/2024,Corporate
+C0211,Rahul Gupta,20,Patna,Bihar,5/10/2023,Consumer
+C0212,Riya Maurya,46,Kanpur,Uttar Pradesh,4/13/2023,Consumer
+C0213,Saanvi Sharma,44,Prayagraj,Uttar Pradesh,6/10/2025,Consumer
+C0214,Arjun Verma,68,Patna,Bihar,9/19/2025,Consumer
+C0215,Kavya Srivastava,59,Bhopal,Madhya Pradesh,3/24/2023,Corporate
+C0216,Karan Agarwal,42,Pune,Maharashtra,9/4/2025,Consumer
+C0217,Nikhil Kumar,52,Patna,Bihar,2/6/2023,Consumer
+C0218,Ayaan Agarwal,32,Delhi,Delhi,2/3/2025,Consumer
+C0219,Vihaan Jaiswal,46,Kanpur,Uttar Pradesh,6/20/2023,Corporate
+C0220,Meera Sharma,38,Lucknow,Uttar Pradesh,3/26/2025,Consumer
+C0221,Diya Maurya,27,Bhopal,Madhya Pradesh,9/8/2023,Consumer
+C0222,Riya Agarwal,28,Prayagraj,Uttar Pradesh,6/29/2023,Consumer
+C0223,Karan Khan,61,Kolkata,West Bengal,9/4/2023,Consumer
+C0224,Riya Gupta,47,Varanasi,Uttar Pradesh,10/15/2024,Consumer
+C0225,Krishna Agarwal,69,Lucknow,Uttar Pradesh,4/21/2024,Small Business
+C0226,Amit Patel,22,Prayagraj,Uttar Pradesh,3/28/2024,Small Business
+C0227,Riya Yadav,62,Bhopal,Madhya Pradesh,9/14/2023,Consumer
+C0228,Ishaan Singh,48,Bhopal,Madhya Pradesh,4/20/2023,Consumer
+C0229,Riya Maurya,36,Kolkata,West Bengal,12/17/2024,Consumer
+C0230,Simran Agarwal,35,Bhopal,Madhya Pradesh,1/9/2023,Consumer
+C0231,Amit Jaiswal,56,Lucknow,Uttar Pradesh,2/2/2025,Consumer
+C0232,Meera Kumar,67,Delhi,Delhi,3/29/2025,Consumer
+C0233,Rohan Maurya,58,Varanasi,Uttar Pradesh,7/14/2023,Consumer
+C0234,Amit Jaiswal,58,Prayagraj,Uttar Pradesh,4/10/2023,Small Business
+C0235,Rahul Sharma,68,Delhi,Delhi,3/27/2024,Consumer
+C0236,Diya Srivastava,23,Prayagraj,Uttar Pradesh,7/20/2025,Consumer
+C0237,Pooja Khan,30,Prayagraj,Uttar Pradesh,5/16/2023,Corporate
+C0238,Meera Maurya,50,Pune,Maharashtra,7/24/2025,Consumer
+C0239,Sai Yadav,69,Patna,Bihar,10/30/2023,Corporate
+C0240,Ananya Jaiswal,47,Kanpur,Uttar Pradesh,9/13/2025,Consumer
+C0241,Sneha Singh,69,Bhopal,Madhya Pradesh,7/24/2024,Consumer
+C0242,Rohan Khan,34,Lucknow,Uttar Pradesh,7/3/2024,Consumer
+C0243,Diya Agarwal,55,Delhi,Delhi,1/26/2024,Corporate
+C0244,Diya Verma,48,Varanasi,Uttar Pradesh,1/26/2023,Consumer
+C0245,Neha Maurya,32,Kolkata,West Bengal,10/25/2024,Consumer
+C0246,Simran Mishra,59,Delhi,Delhi,2/23/2024,Consumer
+C0247,Vivaan Sharma,49,Delhi,Delhi,4/29/2023,Consumer
+C0248,Meera Patel,42,Prayagraj,Uttar Pradesh,4/9/2024,Consumer
+C0249,Pooja Srivastava,44,Pune,Maharashtra,8/24/2024,Corporate
+C0250,Arjun Kumar,59,Bhopal,Madhya Pradesh,4/12/2023,Corporate
+C0251,Kavya Khan,20,Delhi,Delhi,12/7/2024,Consumer
+C0252,Saanvi Mishra,41,Varanasi,Uttar Pradesh,4/12/2023,Small Business
+C0253,Diya Patel,21,Jaipur,Rajasthan,2/12/2024,Consumer
+C0254,Vihaan Pandey,23,Patna,Bihar,11/9/2024,Consumer
+C0255,Rahul Das,21,Lucknow,Uttar Pradesh,3/16/2025,Consumer
+C0256,Arjun Jaiswal,31,Kolkata,West Bengal,3/12/2023,Corporate
+C0257,Neha Singh,31,Kolkata,West Bengal,4/12/2025,Small Business
+C0258,Ananya Jaiswal,68,Prayagraj,Uttar Pradesh,7/11/2025,Consumer
+C0259,Krishna Pandey,26,Prayagraj,Uttar Pradesh,7/7/2024,Consumer
+C0260,Sai Verma,26,Lucknow,Uttar Pradesh,1/16/2023,Consumer
+C0261,Rohan Singh,38,Kolkata,West Bengal,1/17/2023,Consumer
+C0262,Vivaan Gupta,51,Bhopal,Madhya Pradesh,4/27/2023,Corporate
+C0263,Myra Mishra,50,Jaipur,Rajasthan,8/30/2024,Consumer
+C0264,Priya Singh,20,Kolkata,West Bengal,1/14/2025,Corporate
+C0265,Karan Agarwal,37,Pune,Maharashtra,4/14/2024,Consumer
+C0266,Aarav Sharma,43,Patna,Bihar,3/12/2024,Corporate
+C0267,Myra Srivastava,22,Patna,Bihar,7/9/2025,Consumer
+C0268,Kavya Gupta,26,Kanpur,Uttar Pradesh,10/9/2023,Consumer
+C0269,Riya Patel,42,Jaipur,Rajasthan,9/3/2024,Consumer
+C0270,Saanvi Patel,45,Kolkata,West Bengal,4/12/2023,Corporate
+C0271,Vihaan Pandey,64,Pune,Maharashtra,6/5/2025,Consumer
+C0272,Saanvi Kumar,44,Varanasi,Uttar Pradesh,12/14/2023,Corporate
+C0273,Aadhya Khan,38,Kanpur,Uttar Pradesh,3/13/2024,Consumer
+C0274,Krishna Maurya,61,Prayagraj,Uttar Pradesh,8/3/2025,Consumer
+C0275,Aditya Pandey,23,Kanpur,Uttar Pradesh,3/18/2024,Consumer
+C0276,Pooja Maurya,53,Prayagraj,Uttar Pradesh,3/3/2023,Consumer
+C0277,Neha Patel,60,Jaipur,Rajasthan,5/6/2023,Consumer
+C0278,Karan Agarwal,64,Bhopal,Madhya Pradesh,2/22/2023,Small Business
+C0279,Kavya Yadav,24,Jaipur,Rajasthan,8/14/2024,Consumer
+C0280,Arjun Agarwal,32,Patna,Bihar,5/17/2025,Consumer
+C0281,Karan Patel,25,Jaipur,Rajasthan,2/19/2025,Consumer
+C0282,Ayaan Jaiswal,53,Bhopal,Madhya Pradesh,9/24/2025,Corporate
+C0283,Kavya Das,19,Pune,Maharashtra,9/15/2024,Small Business
+C0284,Simran Srivastava,19,Delhi,Delhi,7/4/2023,Consumer
+C0285,Sneha Yadav,40,Jaipur,Rajasthan,1/7/2023,Consumer
+C0286,Arjun Das,22,Bhopal,Madhya Pradesh,5/26/2023,Corporate
+C0287,Aarav Verma,31,Pune,Maharashtra,1/21/2024,Consumer
+C0288,Ananya Gupta,37,Jaipur,Rajasthan,1/8/2025,Consumer
+C0289,Riya Das,21,Kanpur,Uttar Pradesh,6/9/2023,Consumer
+C0290,Kavya Sharma,35,Kanpur,Uttar Pradesh,3/29/2024,Consumer
+C0291,Myra Das,44,Patna,Bihar,10/7/2023,Consumer
+C0292,Priya Verma,45,Jaipur,Rajasthan,4/24/2023,Consumer
+C0293,Amit Das,51,Patna,Bihar,11/14/2024,Consumer
+C0294,Ayaan Khan,21,Kolkata,West Bengal,1/8/2023,Consumer
+C0295,Reyansh Jaiswal,66,Prayagraj,Uttar Pradesh,9/19/2023,Consumer
+C0296,Vihaan Sharma,65,Patna,Bihar,3/16/2024,Consumer
+C0297,Aadhya Patel,50,Varanasi,Uttar Pradesh,7/26/2024,Corporate
+C0298,Rohan Maurya,43,Kanpur,Uttar Pradesh,6/1/2025,Corporate
+C0299,Ira Sharma,22,Patna,Bihar,6/1/2025,Consumer
+C0300,Ira Das,63,Bhopal,Madhya Pradesh,10/17/2024,Consumer

@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Wireless Mouse,Electronics,799,411.13
+P002,Keyboard,Electronics,1299,631.65
+P003,Bluetooth Speaker,Electronics,2499,1443
+P004,Headphones,Electronics,1999,1440.07
+P005,USB-C Hub,Electronics,1799,1197.12
+P006,Power Bank,Electronics,1499,1093.68
+P007,Webcam,Electronics,2899,2191.44
+P008,Smart Watch,Electronics,4999,2531.69
+P009,Mixer Grinder,Home & Kitchen,3299,2419.31
+P010,Electric Kettle,Home & Kitchen,1199,663.04
+P011,Storage Containers,Home & Kitchen,599,393.34
+P012,Bedsheet Set,Home & Kitchen,1499,955.15
+P013,Table Lamp,Home & Kitchen,999,598.13
+P014,Water Bottle,Home & Kitchen,499,285.97
+P015,Air Fryer,Home & Kitchen,5999,3490.54
+P016,Cookware Set,Home & Kitchen,2799,1623.2
+P017,T-Shirt,Clothing,599,317.73
+P018,Jeans,Clothing,1499,949.08
+P019,Casual Shirt,Clothing,1199,616.54
+P020,Sneakers,Clothing,2499,1581.83
+P021,Kurta,Clothing,999,751.03
+P022,Jacket,Clothing,2999,1753.85
+P023,Backpack,Clothing,1599,1116.44
+P024,Socks Pack,Clothing,299,216.98
+P025,Notebook Pack,Books & Stationery,249,180.4
+P026,Ball Pen Set,Books & Stationery,149,82.08
+P027,Desk Organizer,Books & Stationery,499,261.44
+P028,Business Book,Books & Stationery,399,215.13
+P029,Exam Preparation Guide,Books & Stationery,599,395.77
+P030,Calculator,Books & Stationery,799,565.74
+P031,Planner,Books & Stationery,349,236.15
+P032,Art Supplies Kit,Books & Stationery,899,479.3
+P033,Face Wash,Beauty & Personal Care,249,177.25
+P034,Moisturizer,Beauty & Personal Care,399,250.67
+P035,Shampoo,Beauty & Personal Care,349,246.51
+P036,Sunscreen,Beauty & Personal Care,499,353.27
+P037,Hair Dryer,Beauty & Personal Care,1799,1105.79
+P038,Trimmer,Beauty & Personal Care,1299,983.66
+P039,Perfume,Beauty & Personal Care,1599,1038.31
+P040,Grooming Kit,Beauty & Personal Care,2199,1474.63
