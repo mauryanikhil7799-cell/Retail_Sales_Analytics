@@ -1,61 +1,90 @@
-# Retail Sales Analytics Dashboard
+# 📊 Retail Sales Analytics | SQL Server & Tableau
 
-## Project Overview
-Retail Sales Analytics is a business intelligence project built to explore retail sales performance using SQL Server and Tableau. The Tableau dashboard is designed as a single-page executive view of key sales and profitability metrics.
+## 📌 Project Overview
 
-## Dashboard Contents
-The workbook contains the following worksheets:
+**Retail Sales Analytics** is an end-to-end data analytics project built using Microsoft SQL Server and Tableau to analyze retail sales performance, profitability, order trends, product categories, and sales channels.
 
-- **Total Sales** — overall sales KPI
-- **Total Profit** — overall profit KPI
-- **Total Order** — order KPI
-- **Monthly Sales Trend** — sales performance over time
-- **Profit Margin** — profitability analysis
-- **Sales By Category** — comparison across product categories
-- **Sales By Channel** — comparison across sales channels
+The project demonstrates how SQL can be used to prepare and analyze structured business data and how Tableau can transform the results into an interactive, executive-level dashboard for business decision-making.
 
-## Tools Used
-- Microsoft SQL Server — data storage, querying, validation, and analysis
-- Tableau Desktop — data visualization and dashboard development
-- GitHub — project version control and portfolio presentation
+## 🎯 Business Objectives
 
-## Files to Include in This Repository
-Recommended structure:
+- Analyze overall sales, profit, and order performance.
+- Track monthly sales trends and identify changes in performance over time.
+- Evaluate profitability using profit margin analysis.
+- Compare sales performance across product categories.
+- Analyze sales distribution across different sales channels.
+- Enable users to explore performance using dashboard filters.
+- Present business metrics in a clear and interactive visual format.
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft SQL Server | Data storage, querying, validation, and analysis |
+| SQL | Joins, aggregations, date functions, CTEs, and analytical calculations |
+| Tableau Desktop | Data visualization and interactive dashboard development |
+| GitHub | Project documentation and version control |
+
+## 📈 Dashboard Overview
+
+The Tableau dashboard provides a consolidated view of retail business performance through key performance indicators (KPIs) and visual analysis.
+
+### Key Performance Indicators
+
+- **Total Sales** — overall sales performance.
+- **Total Profit** — total profit generated.
+- **Total Orders** — order volume.
+
+### Visualizations
+
+- **Monthly Sales Trend:** Tracks sales performance over time.
+- **Profit Margin Analysis:** Evaluates profitability relative to sales.
+- **Sales by Category:** Compares sales performance across product categories.
+- **Sales by Channel:** Examines sales distribution across different channels.
+- **Geographic Analysis:** Explores sales by location, where supported by the available geographic data.
+- **Date Filtering:** Allows users to analyze performance over a selected period.
+
+## 🧮 SQL Analysis
+
+SQL Server was used to query and analyze the retail dataset and prepare data for visualization.
+
+The project workflow includes:
+
+1. Exploring the available tables and data structure.
+2. Validating records and checking data quality.
+3. Joining related tables to build an analytical dataset.
+4. Aggregating sales, profit, and order metrics.
+5. Analyzing monthly sales performance.
+6. Calculating profitability metrics.
+7. Preparing a dataset or view for Tableau dashboard development.
+
+SQL techniques used include:
+
+- SELECT, WHERE, and ORDER BY
+- GROUP BY and aggregate functions
+- INNER JOIN and LEFT JOIN
+- Common Table Expressions (CTEs)
+- Date functions and monthly aggregations
+- CASE expressions and calculated metrics
+- Window functions, where applicable
+- Views for reusable analytical datasets
+
+## 💡 Business Value
+
+This dashboard helps stakeholders explore key business questions:
+
+- How are sales performing over time?
+- How much profit is the business generating?
+- Which product categories contribute most to sales?
+- Which sales channels generate the most revenue?
+- How does profitability change across the selected period?
+- How do sales results vary by location, where geographic data is available?
+
+These analyses can support sales performance monitoring, profitability assessment, and further business investigation.
+
+## 📂 Repository Structure
 
 ```text
 Retail_Sales_Analytics/
-├── README.md
-├── Tableau/
-│   └── Retail Sales Dashboard.twbx
-├── SQL/
-│   ├── 01_create_tables.sql
-│   ├── 02_data_validation.sql
-│   ├── 03_sales_analysis.sql
-│   └── 04_tableau_dashboard_view.sql
-└── Images/
-    └── retail-sales-dashboard.png
-```
-
-Use the actual names of your SQL scripts and include only files that exist in your project. Add a dashboard screenshot to the `Images` folder so visitors can preview the project without opening Tableau.
-
-## How to View
-1. Download the `.twbx` packaged Tableau workbook from this repository.
-2. Open it with Tableau Desktop or a compatible Tableau application.
-3. If Tableau reports a missing data connection, check the workbook's packaged extract and reconnect the data source if needed.
-
-## Key Project Highlights
-- Executive KPI overview for sales, profit, and order volume
-- Monthly sales trend analysis
-- Profit margin analysis
-- Sales breakdown by category and channel
-- Interactive dashboard filtering
-
-## Notes
-- The dashboard workbook is included as a `.twbx` packaged workbook.
-- Add your final dashboard screenshot and the SQL scripts used to prepare the data before considering the repository complete.
-- If you publish the dashboard to Tableau Public, add the public dashboard link here.
-
-## Author
-**Nikhil Kumar Maurya**
-**Mauryanikhil7788@gmail.com**
-
+│
+├── Data
